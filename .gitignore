@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/nullable-sugar
+nullable-sugar.so
+nullable-sugar.dylib
+nullable-sugar.dll
+*nullable-sugar.a
+*nullable-sugar.lib
+nullable-sugar-test-*
+*.exe
+*.o
+*.obj
+*.lst
